@@ -9,9 +9,9 @@ export default function About () {
             <Container>
                 <Row className='textbackground'>
                     <Col md={7}>
-                    <h3 className='aboutmetext'>About <span>Me</span></h3>
+                    <h3 className='aboutmetext'>About Me</h3>
                     <p className='aboutdetails'>
-                        Your girl is a Software Engineering Wizard, with a fiery passion for creating unforgettable user interfaces. I thrive on taking an idea and bringing it to life with my expertise in Software Engineering. From crafting game-changing ideas to solving complex challenges, I'm always up for a challenge. Let's create something amazing together.
+                        I am a Software Development Wizard, with a fiery passion for creating unforgettable user interfaces. I thrive on taking an idea and bringing it to life with my expertise in Software Engineering. From crafting game-changing ideas to solving complex challenges, I'm always up for a challenge. Let's create something amazing together!
                     </p>
                     <ul className='skillslist'>
                         <Row>

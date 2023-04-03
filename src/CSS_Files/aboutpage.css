@@ -28,21 +28,7 @@
     font-family: 'Nunito', sans-serif;
     padding-top: 1rem;
   }
-  .aboutmetext span:hover {
-    display: inline-block;
-    transition: all 500ms;
-    color: #fff;
-    animation: vibrate 30ms linear infinite forwards;
-  }
 
-  @keyframes vibrate {
-    0% {
-      transform: translateX(-1px) translateY(1px);
-    }
-    100% {
-      transform: translateX(1px) translateY(-2px);
-    }
-  }
   .aboutdetails {
     font-size: 1.5rem !important;
     font-family: 'Nunito', sans-serif;
